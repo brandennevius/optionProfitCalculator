@@ -35,7 +35,9 @@ More information on this model can be found [here](https://en.wikipedia.org/wiki
 # Walkthrough
 * User first selects how many 'legs' they want, which depends on their strategy. They then enter the stock ticker, the price is populated and data from API is retrieved.
 ![image](StockData.png)
-* 
+* User will then press select option button which will display all of the expirations for the current stock options. Once user selects an expiration, a list of all strike prices and options prices will be shown.
+![image](expirations.png)
+![image](options.png){:height="200px" width="420px"}
 
 # To-Do:
 
