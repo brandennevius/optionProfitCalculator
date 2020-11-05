@@ -32,7 +32,7 @@ More information on this model can be found [here](https://en.wikipedia.org/wiki
 * Build matrix displaying profit/loss
 
 # Examples
-(/optionProfitCalculator/StockData.png)
+![image](//StockData.png)
 
 # To-Do:
 
