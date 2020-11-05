@@ -1,6 +1,6 @@
-#Contents
+# Contents
 
-[Black Schole Model](https://github.com/brandennevius/optionProfitCalculator/blob/main/README.md#black-scholes-model)
+[Black Schole Model](#black-scholes-model)
 
 
 
