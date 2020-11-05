@@ -47,7 +47,7 @@ More information on this model can be found [here](https://en.wikipedia.org/wiki
 * Make it more visually appealing
 
 # Images
-[Images](/Images)
+[Images](/images)
 
 
 
