@@ -10,7 +10,7 @@ If you buy or own a stock option contract it gives you the right, but not the ob
 2. The **put option** gives its buyer the right to "sell" shares of a stock at a specified price on or before a given date. You buy a put option when you think the price of the underlying stock is going to go down.  
 
 # Goals
-* Be the #1 used option profit calculatort on the internet.
+* Be the #1 used option profit calculator on the internet.
 * Take a widely used tool by the trading community, make it more efficient and provide more features for the user.
 * Understand the mathematics behind options trading.
 * Strengthen my programming skills and pick up a new language. (JavaScript)
