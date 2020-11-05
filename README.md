@@ -21,6 +21,7 @@ If you buy or own a stock option contract it gives you the right, but not the ob
 * I quickly became very familiar with APIs and parsing JSON data.
 
 # Black Scholes Model
+
 The Black Scholes Model is a widely used mathematical model for pricing an options contract.
 ![Black Scholes](https://www.gstatic.com/education/formulas/images_long_sheet/en/black_scholes_model.svg)
 
