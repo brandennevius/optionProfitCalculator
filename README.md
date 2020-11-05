@@ -33,18 +33,18 @@ t = Time to Expiration
 
 
 **Assumptions**
-* Stock prices follow lognormal distributions(a stock price cannot be negative)
+* Stock prices follow lognormal distributions (stock price cannot be negative)
 * Implied Volatility is constant (impossible to predict future volatility)
-* Brokerage fees are 0.00 and not taken into consideration
+* Brokerage fees are $0.00 and not taken into consideration
 
 More information on this model can be found [here](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
 
 # Project Overview 
-* Allow user to input a stock ticker
-* Fetch from a low latency api with real time options data
-* Feed Data to the Black Scholes Model
+* User enters stock ticker
+* Fetch from a low latency API with real time options data
+* Feed data to the Black Scholes Model
 * Build matrix displaying profit/loss
-* Provide some calculations for overview of potential trade
+* Provide calculations for overview of potential trade
 
 # Walkthrough
 * User first selects the strategy they want. They then enter the stock ticker, the price is populated and all data needed from API is retrieved.
