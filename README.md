@@ -11,7 +11,7 @@ If you buy or own a stock option contract it gives you the right, but not the ob
 
 # Goals
 * Be the #1 used option profit calculator on the internet.
-* Take a widely used tool by the trading community, make it more efficient and provide more features for the user.
+* Take a widely used tool by the trading community, make it more efficient and provide new features for the user.
 * Understand the mathematics behind options trading.
 * Strengthen my programming skills and pick up a new language. (JavaScript)
 * Get familiar with using more data. (API)
