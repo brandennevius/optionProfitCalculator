@@ -33,7 +33,7 @@ More information on this model can be found [here](https://en.wikipedia.org/wiki
 * Build matrix displaying profit/loss
 
 # Walkthrough
-* User enters Stock 
+* User enters stock ticker, price is populated and data from API is retrieved
 ![image](StockData.png)
 
 # To-Do:
