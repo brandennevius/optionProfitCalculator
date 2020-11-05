@@ -37,7 +37,7 @@ More information on this model can be found [here](https://en.wikipedia.org/wiki
 ![image](StockData.png)
 * User will then press select option button which will display all of the expirations for the current stock options. Once user selects an expiration, a list of all strike prices and options prices will be shown.
 ![image](expirations.png)
-![image](options.png){:height="200px" width="420px"}
+![image](options.png)
 
 # To-Do:
 
