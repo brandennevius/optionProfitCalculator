@@ -33,8 +33,9 @@ More information on this model can be found [here](https://en.wikipedia.org/wiki
 * Build matrix displaying profit/loss
 
 # Walkthrough
-* User enters stock ticker, price is populated and data from API is retrieved
+* User first selects how many 'legs' they want, which depends on their strategy. They then enter the stock ticker, the price is populated and data from API is retrieved.
 ![image](StockData.png)
+* 
 
 # To-Do:
 
