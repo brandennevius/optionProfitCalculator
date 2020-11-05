@@ -1,3 +1,9 @@
+#Contents
+
+[Option Basics](https://github.com/brandennevius/optionProfitCalculator/blob/main/README.md#optionprofitcalculator)
+
+
+
 # OptionProfitCalculator
 The options profit calculator was built in inspiration of the [Options Profit Calculator](https://www.optionsprofitcalculator.com/). I use this tool often when analyzing stock options to trade. There is only one of these available online that allows you to visualize profits and losses, so I decided to build my own.
 
