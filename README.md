@@ -3,7 +3,7 @@ The options profit calculator was built in inspiration of the [Options Profit Ca
 
 # Options Trading Baiscs
 **Definition** : 
-If you buy or own a stock option contract it gives you the right, but not the obligation, to buy or sell shares of a stock at a set price on or before a give date (time period). After this date, your contract expires and your option ceases to exist. \
+If you buy or own a stock option contract it gives you the right, but not the obligation, to buy or sell shares of a stock at a set price on or before a given date (time period). After this date, your contract expires and your option ceases to exist. \
 **Types of Options** : 
 1.  The **call option** gives its buyer the right, but not the obligation, to "buy" shares of a stock at a specified price on or before a given date. You buy a Call option when you think the price of the underlying stock is going to go up.
 2. The **put option** gives its buyer the right, but not the obligation, to "sell" shares of a stock at a specified price on or before a given date. You buy a Put option when you think the price of the underlying stock is going to go down.  
