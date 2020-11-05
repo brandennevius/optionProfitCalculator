@@ -34,10 +34,7 @@ More information on this model can be found [here](https://en.wikipedia.org/wiki
 
 # Walkthrough
 * User first selects how many 'legs' they want, which depends on their strategy. They then enter the stock ticker, the price is populated and data from API is retrieved.
-![image](StockData.png)
 * User will then press select option button which will display all of the expirations for the current stock options. Once user selects an expiration, a list of all strike prices and options prices will be shown.
-![image](expirations.png)
-![image](options.png)
 * Once User selects the option they want, the fiels are populated and they can finnaly click calculate which will display the grid.
 * The grid shows the user the profit or loss at each day until expiration. The y-axis represent the hypothetical stock price and the x-axis shows the date all the way until expiration.
 
