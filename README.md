@@ -38,8 +38,13 @@ More information on this model can be found [here](https://en.wikipedia.org/wiki
 * User will then press select option button which will display all of the expirations for the current stock options. Once user selects an expiration, a list of all strike prices and options prices will be shown.
 ![image](expirations.png)
 ![image](options.png)
+* Once User selects the option they want, the fiels are populated and they can finnaly click calculate which will display the grid.
+* The grid shows the user the profit or loss at each day until expiration. The y-axis represent the hypothetical stock price and the x-axis shows the date all the way until expiration.
 
 # To-Do:
+* Add standard deviations for each option, this will show the user the probability of a stock being in a certain price range
+* Add comparisons between two option trades
+* Make it more visually appealing
 
 
 
