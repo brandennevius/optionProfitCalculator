@@ -46,14 +46,8 @@ More information on this model can be found [here](https://en.wikipedia.org/wiki
 * Add comparisons between two option trades
 * Make it more visually appealing
 
-
-
-
-
-
-
-
-
+# Images
+[Images](/Images)
 
 
 
