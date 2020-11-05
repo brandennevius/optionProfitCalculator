@@ -16,8 +16,9 @@ C = Option Price \
 S = Stock Price \
 K = Strike Price \
 r = Risk Interest Rate \
-t = Time to Epiration \ 
-N = A Normal Distribution 
+N = A Normal Distribution \
+t = Time to Epiration
+
 
 **Assumptions**
 * Stock prices follow lognormal distributions(a stock price cannot be negative)
@@ -31,8 +32,9 @@ More information on this model can be found [here](https://en.wikipedia.org/wiki
 * Feed Data to Black Scholes Model
 * Build matrix displaying profit/loss
 
-# Examples
-![image](//StockData.png)
+# Walkthrough
+* User enters Stock 
+![image](StockData.png)
 
 # To-Do:
 
