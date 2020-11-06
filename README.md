@@ -66,10 +66,10 @@ More information on this model can be found [here](https://en.wikipedia.org/wiki
 * The grid shows the profit or loss at each date until expiration. The y-axis represents the range of potential stock prices and the x-axis shows the dates until expiration.
 
 # To-Do
-* Add standard deviations for each option, this will show the user the probability of a stock being in a certain price range.
+* Add standard deviations for each option, this will show the user the probability of a stock being in a certain price range
 * Add comparisons between two trades
 * Make it more visually appealing
-* Add it to my website for use. [BNC Stocks](www.bncstocks.com)
+* Add it to my website for use [BNC Stocks](www.bncstocks.com)
 
 # Images
 [Images](/images)
