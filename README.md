@@ -1,6 +1,14 @@
 # Contents
-
+[Overview](#OptionProfitCalculator)
+[Options Trading Basics](#Options-Trading-Basics)
+[Goals](#Goals)
+[Challenges/Takeaways](#Challenges/Takeaways)
 [Black Schole Model](#black-scholes-model)
+[Project Overview](#Project-Overview)
+[Walkthrough](#Walkthrough)
+[To-Do](#To-Do)
+[Images](#Images)
+
 
 
 
@@ -58,13 +66,7 @@ More information on this model can be found [here](https://en.wikipedia.org/wiki
 * Once user selects the option they want, all necessary fields are populated and they can finally click calculate which will display the grid.
 * The grid shows the user the profit or loss at each date until expiration. The y-axis represent the range of potential stock prices and the x-axis shows the dates until expiration.
 
-# Goals
-* A major goal of mine was to analyze a tool that I and many others use, and see how I could make it better.
-* Understand the mathematics behind options trading.
-* Strengthen my programming skills and pick up a new language. (JavaScript)
-* Get familiar with using more data. (API)
-
-# To-Do:
+# To-Do
 * Add standard deviations for each option, this will show the user the probability of a stock being in a certain price range.
 * Add comparisons between two trades
 * Make it more visually appealing
