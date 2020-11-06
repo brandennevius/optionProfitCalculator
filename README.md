@@ -54,17 +54,16 @@ t = Time to Expiration
 More information on this model can be found [here](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
 
 # Project Overview 
-* User enters stock ticker
 * Fetch from a low latency API with real time options data
 * Feed data to the Black Scholes Model
 * Build matrix displaying profit/loss
 * Provide calculations for overview of potential trade
 
 # Walkthrough
-* User first selects the strategy they want. They then enter the stock ticker, the price is populated and all data needed from API is retrieved.
+* User first selects the strategy they want. They then enter the stock ticker; the price is populated, and all data needed from API is retrieved.
 * User will then press select option button which will display all of the expiration dates for the current stock options. Once user selects an expiration, a list of all strike prices and options prices will be shown.
-* Once user selects the option they want, all necessary fields are populated and they can finally click calculate which will display the grid.
-* The grid shows the user the profit or loss at each date until expiration. The y-axis represent the range of potential stock prices and the x-axis shows the dates until expiration.
+* Once the user selects the option they want, all necessary fields are populated, and they can click calculate which will display the grid.
+* The grid shows the profit or loss at each date until expiration. The y-axis represents the range of potential stock prices and the x-axis shows the dates until expiration.
 
 # To-Do
 * Add standard deviations for each option, this will show the user the probability of a stock being in a certain price range.
