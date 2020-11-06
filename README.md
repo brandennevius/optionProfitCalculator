@@ -3,7 +3,7 @@
 [Options Trading Basics](#Options-Trading-Basics) \
 [Goals](#Goals) \
 [Challenges/Takeaways](#challengestakeaways) \
-[Black Schole Model](#black-scholes-model) \
+[Black Scholes Model](#black-scholes-model) \
 [Project Overview](#Project-Overview) \
 [Walkthrough](#Walkthrough) \
 [To-Do](#To-Do) \
@@ -70,7 +70,7 @@ More information on this model can be found [here](https://en.wikipedia.org/wiki
 * Add standard deviations for each option, this will show the user the probability of a stock being in a certain price range.
 * Add comparisons between two trades
 * Make it more visually appealing
-* Add it to my website for use. -> [BNC Stocks](www.bncstocks.com)
+* Add it to my website for use. [BNC Stocks](www.bncstocks.com)
 
 # Images
 [Images](/images)
