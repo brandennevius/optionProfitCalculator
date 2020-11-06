@@ -1,13 +1,13 @@
 # Contents
-[Overview](#OptionProfitCalculator)
-[Options Trading Basics](#Options-Trading-Basics)
-[Goals](#Goals)
-[Challenges/Takeaways](#Challenges/Takeaways)
-[Black Schole Model](#black-scholes-model)
-[Project Overview](#Project-Overview)
-[Walkthrough](#Walkthrough)
-[To-Do](#To-Do)
-[Images](#Images)
+[Overview](#OptionProfitCalculator) \
+[Options Trading Basics](#Options-Trading-Basics) \
+[Goals](#Goals) \
+[Challenges/Takeaways](#Challenges/Takeaways) \
+[Black Schole Model](#black-scholes-model) \
+[Project Overview](#Project-Overview) \
+[Walkthrough](#Walkthrough) \
+[To-Do](#To-Do) \
+[Images](#Images) \
 
 
 
