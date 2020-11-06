@@ -7,7 +7,7 @@
 [Project Overview](#Project-Overview) \
 [Walkthrough](#Walkthrough) \
 [To-Do](#To-Do) \
-[Images](#Images) \
+[Images](#Images)
 
 
 
